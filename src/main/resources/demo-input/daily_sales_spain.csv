@@ -1,0 +1,4 @@
+StoreID,StoreName,SalesAmount,Category,TransactionDate
+ZARA_ES_001,Zara Puerta del Sol Madrid,14500.50,WOMEN,2026-09-13
+ZARA_ES_001,Zara Puerta del Sol Madrid,3600.30,MEN,2026-09-13
+ZARA_ES_001,Zara Gran Vía Madrid,2000.00,KIDS,2026-09-13
